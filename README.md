@@ -83,7 +83,7 @@ ad-detection-lab/
 
 ## Screenshots
 
-> Drop your Wazuh alert screenshots in [screenshots/](screenshots/) — see the [screenshots README](screenshots/README.md) for naming conventions.
+86 sequential screenshots document the full build process, from prerequisites through Wazuh detection. See the [screenshots README](screenshots/README.md) for the complete index.
 
 ---
 
